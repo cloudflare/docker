@@ -1,0 +1,7 @@
+Backports:
+
+```
+38b45fb7fc426f6e03729060e495752cb26fde88: add gelf option to customize compression type and level
+11b15cfe7d9f4bdfb93133179b1215b45cbf41bc: upgrade go-gelf vendor
+b6a5856b1f0ee084c9ee49dbb64d428ba2f336a4: Add tag support to journald logging driver, closes #19556
+```
